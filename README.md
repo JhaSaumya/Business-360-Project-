@@ -82,5 +82,8 @@ Collaboration: Working closely with stakeholders to address their needs.
 ## Conclusion :
 **This project exemplifies how data-driven decision-making can unlock business growth and operational excellence. By leveraging Power BI’s robust capabilities, I successfully transformed raw data into actionable insights that enabled stakeholders to make informed decisions. It has been a fulfilling experience to witness the tangible impact of my work, driving a 25% increase in revenue for Atliq Hardware Company.**
 
+## Link of Live Dashboard:
+https://app.powerbi.com/view?r=eyJrIjoiYWY1MGE1NjQtMjFiMS00ODM1LTlkMGEtOTc2MTMxZThkYjI2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 
 
